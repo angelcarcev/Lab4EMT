@@ -1,1 +1,1 @@
-#Laboratoriska vezba 4 po Elektronska i mobilna trgovija
+Лабораториска вежба 4 по Електтронска и мобилна трговија
